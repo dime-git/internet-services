@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "1wTV7t/XsEjJ+bv0FE0XdIPpWQj4VCpwjWXtGSCeMRxnyM1AkCzbsVZizN+GGJafor1Ll7vCGmGc6XkYsdcH2Q==",
+  "success": false,
+  "projectFilePath": "F:\\InternetServicesFinal-master\\InternetServicesFinal-master\\Servey.Models\\Servey.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dzape\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\dzape\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\dzape\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\dzape\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'F:\\InternetServicesFinal-master\\InternetServicesFinal-master\\midTerm.Data\\midTerm.Data.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "F:\\InternetServicesFinal-master\\InternetServicesFinal-master\\midTerm.Data\\midTerm.Data.csproj",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.1"
+      ]
+    }
+  ]
+}

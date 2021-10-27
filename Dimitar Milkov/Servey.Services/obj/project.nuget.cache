@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "+0FNVE4CYxRYeXwDqW2P/ib7JNJvHVCEsSxBriu9PEkcvZU4n8tyKlJnb7/j045yAtDbV9VWwtlBMune0dFhZg==",
+  "success": false,
+  "projectFilePath": "F:\\InternetServicesFinal-master\\InternetServicesFinal-master\\Servey.Services\\Servey.Services.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'F:\\InternetServicesFinal-master\\InternetServicesFinal-master\\midTerm.Models\\midTerm.Models.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "F:\\InternetServicesFinal-master\\InternetServicesFinal-master\\midTerm.Models\\midTerm.Models.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+C:\repos\uacsIS\midTerm.Models\bin\Debug\netstandard2.1\midTerm.Models.deps.json
+C:\repos\uacsIS\midTerm.Models\bin\Debug\netstandard2.1\midTerm.Models.dll
+C:\repos\uacsIS\midTerm.Models\bin\Debug\netstandard2.1\midTerm.Models.pdb
+C:\repos\uacsIS\midTerm.Models\obj\Debug\netstandard2.1\midTerm.Models.AssemblyInfoInputs.cache
+C:\repos\uacsIS\midTerm.Models\obj\Debug\netstandard2.1\midTerm.Models.AssemblyInfo.cs
+C:\repos\uacsIS\midTerm.Models\obj\Debug\netstandard2.1\midTerm.Models.csproj.CoreCompileInputs.cache
+C:\repos\uacsIS\midTerm.Models\obj\Debug\netstandard2.1\midTerm.Models.dll
+C:\repos\uacsIS\midTerm.Models\obj\Debug\netstandard2.1\midTerm.Models.pdb
+C:\repos\uacsIS\midTerm.Models\obj\Debug\netstandard2.1\midTerm.Models.csprojAssemblyReference.cache
+C:\repos\uacsIS\midTerm.Models\bin\Debug\netstandard2.1\midTerm.Data.dll
+C:\repos\uacsIS\midTerm.Models\bin\Debug\netstandard2.1\midTerm.Data.pdb
+C:\repos\uacsIS\midTerm.Models\obj\Debug\netstandard2.1\midTerm.Models.csproj.CopyComplete
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm.Models\bin\Debug\netstandard2.1\midTerm.Models.deps.json
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm.Models\bin\Debug\netstandard2.1\midTerm.Models.dll
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm.Models\bin\Debug\netstandard2.1\midTerm.Models.pdb
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm.Models\bin\Debug\netstandard2.1\midTerm.Data.dll
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm.Models\bin\Debug\netstandard2.1\midTerm.Data.pdb
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm.Models\obj\Debug\netstandard2.1\midTerm.Models.csprojAssemblyReference.cache
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm.Models\obj\Debug\netstandard2.1\midTerm.Models.AssemblyInfoInputs.cache
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm.Models\obj\Debug\netstandard2.1\midTerm.Models.AssemblyInfo.cs
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm.Models\obj\Debug\netstandard2.1\midTerm.Models.csproj.CoreCompileInputs.cache
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm.Models\obj\Debug\netstandard2.1\midTerm.Models.csproj.CopyComplete
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm.Models\obj\Debug\netstandard2.1\midTerm.Models.dll
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm.Models\obj\Debug\netstandard2.1\midTerm.Models.pdb
+C:\Users\User\Desktop\Internet Services\2021\final\midTerm.Models\bin\Debug\netstandard2.1\midTerm.Models.deps.json
+C:\Users\User\Desktop\Internet Services\2021\final\midTerm.Models\bin\Debug\netstandard2.1\midTerm.Models.dll
+C:\Users\User\Desktop\Internet Services\2021\final\midTerm.Models\bin\Debug\netstandard2.1\midTerm.Models.pdb
+C:\Users\User\Desktop\Internet Services\2021\final\midTerm.Models\bin\Debug\netstandard2.1\midTerm.Data.dll
+C:\Users\User\Desktop\Internet Services\2021\final\midTerm.Models\bin\Debug\netstandard2.1\midTerm.Data.pdb
+C:\Users\User\Desktop\Internet Services\2021\final\midTerm.Models\obj\Debug\netstandard2.1\midTerm.Models.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Internet Services\2021\final\midTerm.Models\obj\Debug\netstandard2.1\midTerm.Models.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Internet Services\2021\final\midTerm.Models\obj\Debug\netstandard2.1\midTerm.Models.AssemblyInfo.cs
+C:\Users\User\Desktop\Internet Services\2021\final\midTerm.Models\obj\Debug\netstandard2.1\midTerm.Models.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Internet Services\2021\final\midTerm.Models\obj\Debug\netstandard2.1\midTerm.Models.csproj.CopyComplete
+C:\Users\User\Desktop\Internet Services\2021\final\midTerm.Models\obj\Debug\netstandard2.1\midTerm.Models.dll
+C:\Users\User\Desktop\Internet Services\2021\final\midTerm.Models\obj\Debug\netstandard2.1\midTerm.Models.pdb
+F:\InternetServicesFinal-master\InternetServicesFinal-master\midTerm.Models\bin\Debug\netstandard2.1\midTerm.Models.deps.json
+F:\InternetServicesFinal-master\InternetServicesFinal-master\midTerm.Models\bin\Debug\netstandard2.1\midTerm.Models.dll
+F:\InternetServicesFinal-master\InternetServicesFinal-master\midTerm.Models\bin\Debug\netstandard2.1\midTerm.Models.pdb
+F:\InternetServicesFinal-master\InternetServicesFinal-master\midTerm.Models\bin\Debug\netstandard2.1\midTerm.Data.dll
+F:\InternetServicesFinal-master\InternetServicesFinal-master\midTerm.Models\bin\Debug\netstandard2.1\midTerm.Data.pdb
+F:\InternetServicesFinal-master\InternetServicesFinal-master\midTerm.Models\obj\Debug\netstandard2.1\midTerm.Models.csproj.AssemblyReference.cache
+F:\InternetServicesFinal-master\InternetServicesFinal-master\midTerm.Models\obj\Debug\netstandard2.1\midTerm.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\InternetServicesFinal-master\InternetServicesFinal-master\midTerm.Models\obj\Debug\netstandard2.1\midTerm.Models.AssemblyInfoInputs.cache
+F:\InternetServicesFinal-master\InternetServicesFinal-master\midTerm.Models\obj\Debug\netstandard2.1\midTerm.Models.AssemblyInfo.cs
+F:\InternetServicesFinal-master\InternetServicesFinal-master\midTerm.Models\obj\Debug\netstandard2.1\midTerm.Models.csproj.CoreCompileInputs.cache
+F:\InternetServicesFinal-master\InternetServicesFinal-master\midTerm.Models\obj\Debug\netstandard2.1\midTerm.Models.csproj.CopyComplete
+F:\InternetServicesFinal-master\InternetServicesFinal-master\midTerm.Models\obj\Debug\netstandard2.1\midTerm.Models.dll
+F:\InternetServicesFinal-master\InternetServicesFinal-master\midTerm.Models\obj\Debug\netstandard2.1\midTerm.Models.pdb
