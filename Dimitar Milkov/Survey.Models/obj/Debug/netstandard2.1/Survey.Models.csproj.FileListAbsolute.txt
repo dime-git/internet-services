@@ -1,0 +1,4 @@
+C:\Users\dzape\Downloads\midTerm4187-master\midTerm4187-master\midTerm4187.Models\obj\Debug\netstandard2.1\Survey.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dzape\Downloads\midTerm4187-master\midTerm4187-master\midTerm4187.Models\obj\Debug\netstandard2.1\Survey.Models.AssemblyInfoInputs.cache
+C:\Users\dzape\Downloads\midTerm4187-master\midTerm4187-master\midTerm4187.Models\obj\Debug\netstandard2.1\Survey.Models.AssemblyInfo.cs
+C:\Users\dzape\Downloads\midTerm4187-master\midTerm4187-master\midTerm4187.Models\obj\Debug\netstandard2.1\Survey.Models.csproj.CoreCompileInputs.cache

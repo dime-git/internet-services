@@ -1,0 +1,13 @@
+C:\Users\dzape\Downloads\midTerm4187-master\midTerm4187-master\midTerm4187\obj\Debug\net5.0\Survey.csproj.AssemblyReference.cache
+C:\Users\dzape\Downloads\midTerm4187-master\midTerm4187-master\midTerm4187\obj\Debug\net5.0\Survey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dzape\Downloads\midTerm4187-master\midTerm4187-master\midTerm4187\obj\Debug\net5.0\Survey.AssemblyInfoInputs.cache
+C:\Users\dzape\Downloads\midTerm4187-master\midTerm4187-master\midTerm4187\obj\Debug\net5.0\Survey.AssemblyInfo.cs
+C:\Users\dzape\Downloads\midTerm4187-master\midTerm4187-master\midTerm4187\obj\Debug\net5.0\Survey.csproj.CoreCompileInputs.cache
+C:\Users\dzape\Downloads\midTerm4187-master\midTerm4187-master\midTerm4187\obj\Debug\net5.0\Survey.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dzape\Downloads\midTerm4187-master\midTerm4187-master\Survey\obj\Debug\net5.0\Survey.csproj.AssemblyReference.cache
+C:\Users\dzape\Downloads\midTerm4187-master\midTerm4187-master\Survey\obj\Debug\net5.0\Survey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dzape\Downloads\midTerm4187-master\midTerm4187-master\Survey\obj\Debug\net5.0\Survey.AssemblyInfoInputs.cache
+C:\Users\dzape\Downloads\midTerm4187-master\midTerm4187-master\Survey\obj\Debug\net5.0\Survey.AssemblyInfo.cs
+C:\Users\dzape\Downloads\midTerm4187-master\midTerm4187-master\Survey\obj\Debug\net5.0\Survey.csproj.CoreCompileInputs.cache
+C:\Users\dzape\Downloads\midTerm4187-master\midTerm4187-master\Survey\obj\Debug\net5.0\Survey.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dzape\Downloads\midTerm4187-master\midTerm4187-master\Survey\obj\Debug\net5.0\Survey.MvcApplicationPartsAssemblyInfo.cache
